@@ -1,4 +1,4 @@
-<img alt="GameBanana" src="https://images.gamebanana.com/static/img/banana.png" style="width: 13px"/></a> [**GameBanana page**](youlol)
+<img alt="GameBanana" src="https://images.gamebanana.com/static/img/banana.png" style="width: 13px"/></a> [**GameBanana page**](https://gamebanana.com/scripts/11384)
 
 # Crosshair (12-bit) RGB Color Selector
 A 12-bit RGB color selector made entirely using aliases and in-game console commands.
