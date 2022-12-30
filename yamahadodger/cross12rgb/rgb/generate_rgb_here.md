@@ -1,9 +1,11 @@
-THIS FILE ISN'T THE PART OF THIS SCRIPT
+# generate_rgb_here.md
 
-PLEASE GENERATE CROSSHAIR RGB CONFIGS HERE YOURSELF DUE TO EXCESSIVE AMOUNT OF FILES TO UPLOAD ON GITHUB
+**FOREMOST, THIS FILE ISN'T THE PART OF THIS SCRIPT!**
 
-TO GENERATE CONFIG FILES, CHECK 'DEVELOPMENT RESOURCES' FOR 'RGBTOOL'
+Please generate crosshair RGB configs here yourself due to excessive amount of files to upload on GitHub.
 
-IF THE 'RGBTOOL' IS CORRUPTED, CREATE A NEW ONE USING SPREADSHEET 'CONV_12HEX_TO_12DEC_V2.ODS' I MADE TO GENERATE BATCH PROGRAM
+To generate config files, check **DEVELOPMENT RESOURCES** for a file **RGBTOOL.7Z**.
 
-THANKS FOR YOUR ATTENTION!
+If the **RGBTOOL.7Z** is corrupted, create a new one using spreadsheet **CONV_12HEX_TO_12DEC_V\*.ODS** that I made to generate batch program.
+
+Thanks for attention!
