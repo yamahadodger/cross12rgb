@@ -1,12 +1,17 @@
-*n* (current R, new G, current B)
-*nn (current R, new G, new B)
-**n (current R, current G, new B)
-n*n (new R, current G, new B)
-n** (new R, current G, current B)
-nn* (new R, new G, current B)
+regular expressions (regular)
+*n* (current R, new G, current B; 16 expected new aliases)
+*nn (current R, new G, new B; 256 expected new aliases)
+**n (current R, current G, new B; 16 expected new aliases)
+n*n (new R, current G, new B; 256 expected new aliases)
+n** (new R, current G, current B; 16 expected new aliases)
+nn* (new R, new G, current B; 256 expected new aliases)
 
-relative regular expressions
-*n (current R, new G, 0 B)
-n* (new R, current G, 0 B)
-** (current R, current G, 0 B)
-* (current R, 0 G, 0 B)
+regular expressions (relative)
+*n (current R, new G, 0 B; 16 expected new aliases)
+n* (new R, current G, 0 B; 16 expected new aliases)
+** (current R, current G, 0 B; 1 expected new aliases)
+* (current R, 0 G, 0 B; 1 expected new aliases)
+
+16+256+16+256+16+256+16+16+1+1=850
+----------------------------------
+expected total of new aliases: 850
