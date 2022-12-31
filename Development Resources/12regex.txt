@@ -1,6 +1,12 @@
-*n*
-*nn
-**n
-n*n
-n**
-nn*
+*n* (current R, new G, current B)
+*nn (current R, new G, new B)
+**n (current R, current G, new B)
+n*n (new R, current G, new B)
+n** (new R, current G, current B)
+nn* (new R, new G, current B)
+
+relative regular expressions
+*n (current R, new G, 0 B)
+n* (new R, current G, 0 B)
+** (current R, current G, 0 B)
+* (current R, 0 G, 0 B)
