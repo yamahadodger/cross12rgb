@@ -7,7 +7,7 @@ A 12-bit RGB color selector made entirely using aliases and in-game console comm
 It simplifies the process of selecting your desired crosshair color. You can even use this to apply your desired 12-bit crosshair into dedicated config file (see `How to use it?` section).
 
 # How to use it?
-To utilize the config entirely, make sure to download all config files (4,106 in total).
+To utilize the config entirely, make sure to download all config files (57 in total).
 
 To make this config function, use the following game launch parameter: `+exec yamahadodger/cross12rgb`
 
