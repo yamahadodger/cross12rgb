@@ -17,4 +17,4 @@ To reload the config in case you face some trouble with this script, type in the
 
 # License:
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+This work is marked with <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer">CC0 1.0 Universal <span data-v-a0d4e8a8="" class="icon"><img data-v-a0d4e8a8="" width="20" height="20" src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg"><img data-v-a0d4e8a8="" width="20" height="20" src="https://chooser-beta.creativecommons.org/img/cc-zero.f5450231.svg"></span></a>
