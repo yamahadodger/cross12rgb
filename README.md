@@ -9,7 +9,7 @@ It simplifies the process of selecting your desired crosshair color. You can eve
 # How to use it?
 To utilize the config entirely, make sure to download all config files (57 in total).
 
-To make this config function, use the following game launch parameter: `+exec yamahadodger/cross12rgb`
+To make this config function, use the following game launch parameter: `+exec cross12rgb`
 
 To change your crosshair color with the [shorthand hexademical form](https://en.wikipedia.org/wiki/Web_colors#Shorthand_hexadecimal_form), use the following command: `cross12rgb.setcolor=FFF` ~~(FFF = F0F0F0, so; 240 R, 240 G, 240 B)~~ (actually, FFF = FFFFFF, so; 255 R, 255 G, 255 B).
 
